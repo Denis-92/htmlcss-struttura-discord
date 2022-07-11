@@ -12,5 +12,12 @@ body {
 
 /* ----- UTILITY ----- */
 
+.flex {
+    display: flex;
+}
+
+.column {
+    flex-direction: column;
+}
 
 /* ----- CONTENT ----- */
