@@ -21,3 +21,12 @@ body {
 }
 
 /* ----- CONTENT ----- */
+
+.header {
+    background-color: yellowgreen;
+}
+
+.navigation {
+    justify-content: center;
+    flex-grow: 1;
+}
