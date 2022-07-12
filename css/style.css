@@ -50,8 +50,6 @@ body {
 
 .paragraph {
     text-align: center;
-}
-
-h2, .paragraph {
-    display: inline;
+    height: 300px;
+    margin: 50px 300px;
 }
