@@ -67,6 +67,7 @@ body {
 .footer {
     background-color: black;
     height: 500px;
+    padding: 20px 200px;
 }
 
 .button {
@@ -76,4 +77,14 @@ body {
 
 h2 {
     margin: 10px 0;
+}
+
+.bottom-nav {
+    background-color: blue;
+    height: 300px;
+    margin: 30px;
+}
+
+.bottom-nav > h2 {
+    color: white;
 }
