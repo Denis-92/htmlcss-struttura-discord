@@ -23,10 +23,14 @@ body {
 /* ----- CONTENT ----- */
 
 .header {
-    background-color: yellowgreen;
+    background-color: blue;
+    height: 500px;
+    justify-content: center;
 }
 
 .navigation {
     justify-content: center;
-    flex-grow: 1;
+    background-color: white;
+    height: 30px;
+    margin-top: 20px;
 }
