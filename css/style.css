@@ -26,11 +26,18 @@ body {
     background-color: blue;
     height: 500px;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .navigation {
-    justify-content: center;
     background-color: white;
     height: 30px;
     margin-top: 20px;
+}
+
+.call-to-action {
+    background-color: white;
+    height: 100px;
+    margin: 0 400px;
+    text-align: center;
 }
