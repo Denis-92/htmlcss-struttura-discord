@@ -43,13 +43,17 @@ body {
 }
 
 .main {
-    background-color: grey;
+    background-color: #ccc;
     height: 1000px;
-    justify-content: center;
 }
 
 .paragraph {
     text-align: center;
     height: 300px;
-    margin: 50px 300px;
+    margin: 50px 400px;
+    justify-content: space-between;
+}
+.text {
+    text-align: left;
+    margin-left: 300px;
 }
