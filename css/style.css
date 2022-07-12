@@ -52,6 +52,7 @@ body {
     text-align: center;
     height: 300px;
     margin: 50px 400px;
+    background-color: white;
 }
 .text {
     text-align: left;
@@ -61,4 +62,18 @@ body {
 .text-left {
     text-align: left;
     margin-right: 300px;
+}
+
+.footer {
+    background-color: black;
+    height: 500px;
+}
+
+.button {
+    height: 50px;
+    margin: 50px 700px;
+}
+
+h2 {
+    margin: 10px 0;
 }
