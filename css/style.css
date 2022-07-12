@@ -47,3 +47,11 @@ body {
     height: 1000px;
     justify-content: center;
 }
+
+.paragraph {
+    text-align: center;
+}
+
+h2, .paragraph {
+    display: inline;
+}
