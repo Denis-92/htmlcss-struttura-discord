@@ -41,3 +41,9 @@ body {
     margin: 0 400px;
     text-align: center;
 }
+
+.main {
+    background-color: grey;
+    height: 1000px;
+    justify-content: center;
+}
