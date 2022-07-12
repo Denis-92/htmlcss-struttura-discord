@@ -45,15 +45,20 @@ body {
 .main {
     background-color: #ccc;
     height: 1000px;
+    flex-wrap: wrap;
 }
 
 .paragraph {
     text-align: center;
     height: 300px;
     margin: 50px 400px;
-    justify-content: space-between;
 }
 .text {
     text-align: left;
     margin-left: 300px;
+}
+
+.text-left {
+    text-align: left;
+    margin-right: 300px;
 }
